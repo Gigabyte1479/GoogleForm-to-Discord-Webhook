@@ -6,7 +6,7 @@ Go to https://drive.google.com and create a new Google Form. Once created go to 
 
 ## Step 2: Import Code
 To import my the code into the Google Sheet start by going to **Tools -> Script Editor**. Delete any code already inside the editor and paste in **basic.gs** or **secretCodes.gs** from the version folder in the GIT. Save the code and make any edits to the metaData JSON field. Once saved, click on triggers on the left side. Create a new trigger. Configure as the picture below describes. 
-https://i.gyazo.com/33910369ac394657ca89ed39f55262e5.png
+![picture](https://i.gyazo.com/33910369ac394657ca89ed39f55262e5.png)
 Sign in with Google and click "Advanced" and then **Go to Project**. 
 
 ## Step 3: Link to Discord
