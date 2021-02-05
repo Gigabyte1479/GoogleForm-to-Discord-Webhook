@@ -16,7 +16,7 @@ secretCodes = {
 
 //METADATA
 metaData = {
-  "webhookURL": "https://ptb.discord.com/api/webhooks/806271892741685280/hvbzWjeqI4nhX0HBkfR9jwwX1DtPlVB6Pxd1W58Wh7zUwV2vsYLPxZtzcfQm7tfhovH8",
+  "webhookURL": "",
   "webhookUsername": "WebHook Username",
   "embedTitle": "Embed Title",
   "content": "content", //I recomend doing discord tags here <@!179001735895842816>
