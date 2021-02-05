@@ -5,8 +5,8 @@ This code will make any responses inside a Google Form and stylize it in a Disco
 Go to https://drive.google.com and create a new Google Form. Once created go to the **Responses** tab and click the Google Sheets button to create a new Google Sheet.
 
 ## Step 2: Import Code
-To import my the code into the Google Sheet start by going to **Tools -> Script Editor**. Delete any code already inside the editor and paste in **basic.gs** or **secretCodes.gs** from the version folder in the GIT. Save the code and make any edits to the metaData JSON field. Once saved, click on triggers on the left side. Create a new trigger. Configure as the picture below describes. 
-<img src="https://i.gyazo.com/33910369ac394657ca89ed39f55262e5.png" style="width:200;" height="200"/>
+To import my the code into the Google Sheet start by going to **Tools -> Script Editor**. Delete any code already inside the editor and paste in **basic.gs** or **secretCodes.gs** from the version folder in the GIT. Save the code and make any edits to the metaData JSON field. Once saved, click on triggers on the left side. Create a new trigger. Configure as the picture below describes. <br>
+<img src="https://i.gyazo.com/33910369ac394657ca89ed39f55262e5.png" style="width:300;" height="300"/><br>
 Sign in with Google and click "Advanced" and then **Go to Project**. 
 
 ## Step 3: Link to Discord
